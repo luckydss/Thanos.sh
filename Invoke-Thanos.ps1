@@ -1,7 +1,7 @@
 <#
-.SYNOPSIS
+.SYNOPSISsdfsd asdfsdfa sdfsad sadfs sdfasdfdsa sd fsdfaasdf sdf a
 
-    THANOS! Randomly removes about half of your objects.
+    THANOS! Randomly removes about half of your objects.asd 
 
 .DESCRIPTION
 
